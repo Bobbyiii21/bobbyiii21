@@ -4,22 +4,22 @@ My name is Bobby Stephens. I am 18 years old and currently a Senior at Newton Co
 
 ### Stuff I've Worked With
 
-#### Operating Systems
-<p align="center">
+#### Operating Systems:
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=debian,raspberrypi,windows,apple,arch" />
   </a>
 </p>
 
-#### Languages
-<p align="center">
+#### Languages:
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,latex,python,java,md" />
   </a>
 </p>
 
-#### Utilities
-<p align="center">
+#### Utilities:
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,bash,firebase" />
   </a>
