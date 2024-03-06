@@ -7,7 +7,7 @@ My name is Bobby Stephens. I am 18 years old and currently a Senior at Newton Co
 #### Operating Systems:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,raspberrypi,windows,apple,arch" />
+    <img src="https://skillicons.dev/icons?i=debian,raspberrypi,windows,apple,kali" />
   </a>
 </p>
 
