@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page!
 
-My name is Bobby Stephens. I am 18 years old and currently an undergrad student at Georgia Institute of Technology. I love to code, and I am currently learning JavaScript. Explore my page to see some of my projects!
+My name is Bobby Stephens. I am 19 years old and currently an undergrad student at Georgia Institute of Technology. I love to code, and I am currently learning JavaScript. Explore my page to see some of my projects!
 
 ### Stuff I've Worked With
 
